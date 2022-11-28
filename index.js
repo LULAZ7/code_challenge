@@ -1,6 +1,6 @@
-//The function takes in a value between 0 and 100 and consoles the output the correct grade.
+//The function takes in a value between 0 and 100 and consoles the output of the correct grade.
 function grades(marks){
-    if(marks > 79)
+    if(marks >= 79)
     console.log('A');
     else if(marks <79 && marks >= 60)
     console.log('B');
@@ -12,7 +12,7 @@ function grades(marks){
     console.log('E');
 }
 
-//The function takes in speed values whereby the speed limit shoukld not exceed 70.If it did,for every 5km/hour exceeded,the driver gets demerited 1 point.If the driver gets more than 12 points,the license is suspended.
+//The function takes in speed values whereby the speed limit should not exceed 70.If it did,for every 5km/hour exceeded,the driver gets demerited 1 point.If the driver gets more than 12 points,the license is suspended.
 
 function speed(limit){
     if(limit <= 70)

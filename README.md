@@ -34,6 +34,13 @@ https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 ## Project Setup
+On how to access this repository,you have to fork.After forking,you clone using https://github.com/LULAZ7.
+Do not forget to chang the name to yours.
+
+The first function is used to input students marks and see what grade they achieved.For example,when a student
+gets a 60 mark,the output will read a B meaning the student got a B grade.
+
+The second function is used to input the speed limit whereby when the driver overspeeds to a certain limit,they get demerit points.When the demerit points exceed 12 points,their license gets cancelled.  
 
 ## Authors
 This project was contributed to by:
