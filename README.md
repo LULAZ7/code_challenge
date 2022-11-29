@@ -14,7 +14,7 @@ This is a code challenge test
 
 ## Project Setup
 
-To use this repo on your machine requires some simple steps
+To use this repository on your machine requires some simple steps
 
 Open a terminal / command line interface on your computer
 
@@ -22,27 +22,22 @@ Clone the repo by using the following:
 
 ` git clone https://github.com/LULAZ7/code_challenge.git`
 
-Be patient as it creates a copy on your local machine for you.
 
-Change directory to the repo folder:
+Change directory to the repository folder:
 
-cd code_challenge
-- (Optional) Open it in Visual Studio Code
+`cd code_challenge`
+- Open it in Visual Studio Code
 
-  code .
-- (Alternate Option) Open it in any editor of your choice.
+  `code .`
 
-Hurray! You are one step closer to being as intelligent as Einstein.
+
+
 
 ## Running the application
-Running the application is very straight forward. You can use the following steps to run the app.
+In order to run this application in your terminal, you should type ;
 
-Install required dependencies from npm
+- `node index.js`
 
-npm install
-Run the application
-
-npm start
 
 ## Authors
 This project was contributed to by:
